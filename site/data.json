@@ -1,0 +1,113 @@
+{
+  "slug": "social-studio",
+  "host": "social",
+  "title": "Social Studio",
+  "tagline": "Posts, calendars, hashtags and analytics",
+  "description": "Compose posts, stories, and carousels, and plan content with a visual calendar. Research hashtags, design social ads and bio-link pages, manage influencer briefs and UGC, run polls, and track engagement analytics across every platform.",
+  "editors": [
+    {
+      "category": "Social Media Editors",
+      "name": "Post Composer Editor",
+      "desc": "Social media post creation"
+    },
+    {
+      "category": "Social Media Editors",
+      "name": "Content Calendar Editor",
+      "desc": "Scheduling and planning content"
+    },
+    {
+      "category": "Social Media Editors",
+      "name": "Story Editor",
+      "desc": "Social media story/reel design"
+    },
+    {
+      "category": "Social Media Editors",
+      "name": "Caption Editor",
+      "desc": "Post caption writing and formatting"
+    },
+    {
+      "category": "Social Media Editors",
+      "name": "Hashtag Editor",
+      "desc": "Hashtag research and grouping"
+    },
+    {
+      "category": "Social Media Editors",
+      "name": "Carousel Post Editor",
+      "desc": "Multi-slide social post creation"
+    },
+    {
+      "category": "Social Media Editors",
+      "name": "Social Ad Editor",
+      "desc": "Paid social ad creative design"
+    },
+    {
+      "category": "Social Media Editors",
+      "name": "Bio Link Editor",
+      "desc": "Link-in-bio page builder"
+    },
+    {
+      "category": "Social Media Editors",
+      "name": "Comment Response Editor",
+      "desc": "Templated comment/reply management"
+    },
+    {
+      "category": "Social Media Editors",
+      "name": "Social Analytics Editor",
+      "desc": "Engagement and reach reporting"
+    },
+    {
+      "category": "Social Media Editors",
+      "name": "Influencer Brief Editor",
+      "desc": "Influencer campaign brief creation"
+    },
+    {
+      "category": "Social Media Editors",
+      "name": "Cross-Posting Editor",
+      "desc": "Multi-platform post distribution rules"
+    },
+    {
+      "category": "Social Media Editors",
+      "name": "Poll/Quiz Post Editor",
+      "desc": "Interactive social poll creation"
+    },
+    {
+      "category": "Social Media Editors",
+      "name": "UGC Collection Editor",
+      "desc": "User-generated content curation"
+    }
+  ],
+  "services": [
+    [
+      "publishing",
+      "core"
+    ],
+    [
+      "marketing",
+      "core"
+    ],
+    [
+      "customer",
+      "core"
+    ],
+    [
+      "media",
+      "new"
+    ],
+    [
+      "scheduling",
+      "new"
+    ],
+    [
+      "moderation",
+      "gap"
+    ],
+    [
+      "recommendation",
+      "gap"
+    ],
+    [
+      "realtime",
+      "gap"
+    ]
+  ]
+}
